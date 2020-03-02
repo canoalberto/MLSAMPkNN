@@ -4,7 +4,7 @@ In multi-label learning, data may simultaneously belong to more than one class. 
 
 # Manuscript - ACM Transactions on Knowledge Discovery from Data (TKDD)
 
-To appear online
+https://dl.acm.org/doi/10.1145/3363573
 
 # Citing Kappa Updated Ensemble
 
