@@ -6,6 +6,6 @@ In multi-label learning, data may simultaneously belong to more than one class. 
 
 https://dl.acm.org/doi/10.1145/3363573
 
-# Citing Kappa Updated Ensemble
+# Citing MLSAMPkNN
 
 > M. Roseberry, B. Krawczyk, and A. Cano. Multi-label Punitive kNN with Self-Adjusting Memory for Drifting Data Streams. ACM Transactions on Knowledge Discovery from Data, 2019.
