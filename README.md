@@ -8,4 +8,4 @@ https://dl.acm.org/doi/10.1145/3363573
 
 # Citing MLSAMPkNN
 
-> M. Roseberry, B. Krawczyk, and A. Cano. Multi-label Punitive kNN with Self-Adjusting Memory for Drifting Data Streams. ACM Transactions on Knowledge Discovery from Data, 2019.
+> M. Roseberry, B. Krawczyk, and A. Cano. Multi-label Punitive kNN with Self-Adjusting Memory for Drifting Data Streams. ACM Transactions on Knowledge Discovery from Data, 13(6), art. 60, 2019.
